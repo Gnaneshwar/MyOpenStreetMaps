@@ -1,0 +1,7 @@
+lat	lon	title	description	icon	iconSize	iconOffset
+31.77457	76.98613	Parashar Hostel	Two of the three blocks are staying here along with some scholars	hostel.jpeg	70,80	-40,-80
+31.77324	76.98506	Mess Kamand Campus	All the students and the faculty residing in kamand campus have their food here	mess.jpg	70,70	-40,-50
+31.77199	76.98408	B3Block	B block of the parashar hostel 	hostel.jpeg 	50,50	-24,-24 
+31.77544	76.98645	ATM	State bank of INdia	atm.jpg 	70,70	-40,-50
+31.77650	76.98734	Start	Start of IIT KAmand Campus 	start.jpg 	70,77 	-40,-50
+
